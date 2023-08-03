@@ -18,7 +18,7 @@ The site is made with Django so to use this repository, Python and Django should
 The current project structure is as follows:
 main app
     - Main site's app that handles the landing page, and the redirects/about page
-auth app
+registration app
     - Site's app that handles login, register, logout, viewing and changing user data
 dashboard app
     - Site's app that serves as the main menu
