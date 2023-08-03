@@ -16,18 +16,18 @@ The site is made with Django so to use this repository, Python and Django should
 ## Project Structure
 
 The current project structure is as follows:
-Main app
+main app
     - Main site's app that handles the landing page, and the redirects/about page
-Auth app
+auth app
     - Site's app that handles login, register, logout, viewing and changing user data
-Dashboard app
+dashboard app
     - Site's app that serves as the main menu
     - Handles redirecting after authentication
     - Redirects to testing, viewing test results, viewing user data, about page, changing user data, logout
-Test app
+at_test app
     - Site's app that handles the testing
     - adaptive testing
-Results app
+at_results app
     - Site's app that handles viewing test results easier
     - charts
     - improvement
