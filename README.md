@@ -2,7 +2,10 @@
 
 This repository serves as the website for AHEAD's Adaptive Testing Website.
 
-[TOC]
+# Table of Contents
+
+1. [Prerequisites](#prerequisites)
+2. [Project Structure](#project-structure)
 
 ## Prerequisites
 
