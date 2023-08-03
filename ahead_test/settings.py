@@ -34,6 +34,8 @@ INSTALLED_APPS = [
     'main.apps.MainConfig',
     'registration.apps.RegistrationConfig',
     'dashboard.apps.DashboardConfig',
+    'at_test.apps.AtTestConfig',
+    'at_results.apps.AtResultsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
